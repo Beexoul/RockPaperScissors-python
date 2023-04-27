@@ -18,4 +18,15 @@ This is a simple implementation of the Rock-Paper-Scissors game in Python. It al
 9. Have fun and try to outsmart the computer!
 
 ## Example Usage
-
+Welcome to Rock-Paper-Scissors!
+Enter your choice (rock, paper, or scissors): rock
+You chose: rock
+Computer chose: scissors
+You win!
+Do you want to play again? (yes/no): yes
+Enter your choice (rock, paper, or scissors): paper
+You chose: paper
+Computer chose: rock
+You win!
+Do you want to play again? (yes/no): no
+Thank you for playing!
