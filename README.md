@@ -30,3 +30,8 @@ Computer chose: rock<br>
 You win!<br>
 Do you want to play again? (yes/no): no<br>
 Thank you for playing!<br>
+
+
+<h3>
+Enjoy playing Rock-Paper-Scissors! Feel free to modify the code and add new features to enhance the game.
+</h3>
